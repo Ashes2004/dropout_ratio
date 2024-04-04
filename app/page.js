@@ -27,12 +27,6 @@ export default function Home() {
     }
     ,
     {
-      "index": 4,
-      "name": "Gender Parity Index (primary)",
-      "show": "gpi_primary"
-    }
-    ,
-    {
       "index": 5,
       "name": "Gender Parity Index (Upper Primary)",
       "show": "gpi_upper_primary"
@@ -102,12 +96,12 @@ export default function Home() {
 
 
   return (
-    <div className="  h-screen w-screen  ">
+    <div className=" bg-gray-200 h-[1300px] w-screen  ">
       <MyContext.Provider value={{ value, setValue }}>
         <div className="flex justify-center w-screen pt-24 ">
           <Dropdown data={data} />
         </div>
-        <div className=" mb-8 lg:grid lg:grid-cols-3 sm:flex-1 sm:p-5 gap-3">
+       
 
           <Graph />
 
@@ -115,7 +109,7 @@ export default function Home() {
 
 
 
-        </div>
+       
 
       </MyContext.Provider>
     </div>
