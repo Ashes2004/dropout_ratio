@@ -1,0 +1,379 @@
+[
+    {
+        "title": "Literacy Rate",
+        "primary_overall": {
+            "label": "Literacy rate vs primary overall",
+            "region": [
+                "Andaman & Nicobar Islands",
+                "Andhra Pradesh",
+                "Arunachal Pradesh",
+                "Assam",
+                "Bihar",
+                "Chandigarh",
+                "Chhattisgarh",
+                "Dadra & Nagar Haveli and Daman & Diu",
+                "Delhi",
+                "Goa",
+                "Gujarat",
+                "Haryana",
+                "Himachal Pradesh",
+                "Jammu & Kashmir",
+                "Jharkhand",
+                "Karnataka",
+                "Kerala",
+                "Ladakh",
+                "Lakshadweep",
+                "Madhya Pradesh",
+                "Maharashtra",
+                "Manipur",
+                "Meghalaya",
+                "Mizoram",
+                "Nagaland",
+                "Odisha",
+                "Puducherry",
+                "Punjab",
+                "Rajasthan",
+                "Sikkim",
+                "Tamilnadu",
+                "Telangana",
+                "Tripura",
+                "Uttarakhand",
+                "Uttar Pradesh",
+                "West Bengal"
+            ],
+            "data": [
+                {
+                    "x": 86.63,
+                    "y": 0.43
+                },
+                {
+                    "x": 67.02,
+                    "y": 0.0
+                },
+                {
+                    "x": 65.39,
+                    "y": 9.25
+                },
+                {
+                    "x": 72.19,
+                    "y": 6.01
+                },
+                {
+                    "x": 86.05,
+                    "y": 0.0
+                },
+                {
+                    "x": 75.0,
+                    "y": 0.0
+                },
+                {
+                    "x": 70.28,
+                    "y": 0.77
+                },
+                {
+                    "x": 81.67,
+                    "y": 0.0
+                },
+                {
+                    "x": 86.21,
+                    "y": 0.0
+                },
+                {
+                    "x": 88.7,
+                    "y": 0.0
+                },
+                {
+                    "x": 78.03,
+                    "y": 0.0
+                },
+                {
+                    "x": 75.55,
+                    "y": 0.0
+                },
+                {
+                    "x": 82.8,
+                    "y": 0.0
+                },
+                {
+                    "x": 67.16,
+                    "y": 4.04
+                },
+                {
+                    "x": 66.41,
+                    "y": 1.75
+                },
+                {
+                    "x": 75.37,
+                    "y": 0.0
+                },
+                {
+                    "x": 94.0,
+                    "y": 0.0
+                },
+                {
+                    "x": null,
+                    "y": 6.49
+                },
+                {
+                    "x": 91.85,
+                    "y": 0.46
+                },
+                {
+                    "x": 69.32,
+                    "y": 3.08
+                },
+                {
+                    "x": 82.34,
+                    "y": 0.02
+                },
+                {
+                    "x": 76.9,
+                    "y": 13.25
+                },
+                {
+                    "x": 74.43,
+                    "y": 9.83
+                },
+                {
+                    "x": 91.33,
+                    "y": 6.33
+                },
+                {
+                    "x": 79.55,
+                    "y": 5.03
+                },
+                {
+                    "x": 72.87,
+                    "y": 0.0
+                },
+                {
+                    "x": 85.85,
+                    "y": 3.67
+                },
+                {
+                    "x": 75.84,
+                    "y": 1.28
+                },
+                {
+                    "x": 66.11,
+                    "y": 3.55
+                },
+                {
+                    "x": 81.42,
+                    "y": 1.69
+                },
+                {
+                    "x": 82.9,
+                    "y": 0.0
+                },
+                {
+                    "x": 72.8,
+                    "y": 0.0
+                },
+                {
+                    "x": 87.75,
+                    "y": 1.06
+                },
+                {
+                    "x": 87.6,
+                    "y": 0.74
+                },
+                {
+                    "x": 73.0,
+                    "y": 2.69
+                },
+                {
+                    "x": 85.0,
+                    "y": 8.61
+                }
+            ]
+        },
+        "upper_primary_overall": {
+            "label": "Literacy rate vs upper primary overall",
+            "region": [
+                "Andaman & Nicobar Islands",
+                "Andhra Pradesh",
+                "Arunachal Pradesh",
+                "Assam",
+                "Bihar",
+                "Chandigarh",
+                "Chhattisgarh",
+                "Dadra & Nagar Haveli and Daman & Diu",
+                "Delhi",
+                "Goa",
+                "Gujarat",
+                "Haryana",
+                "Himachal Pradesh",
+                "Jammu & Kashmir",
+                "Jharkhand",
+                "Karnataka",
+                "Kerala",
+                "Ladakh",
+                "Lakshadweep",
+                "Madhya Pradesh",
+                "Maharashtra",
+                "Manipur",
+                "Meghalaya",
+                "Mizoram",
+                "Nagaland",
+                "Odisha",
+                "Puducherry",
+                "Punjab",
+                "Rajasthan",
+                "Sikkim",
+                "Tamilnadu",
+                "Telangana",
+                "Tripura",
+                "Uttarakhand",
+                "Uttar Pradesh",
+                "West Bengal"
+            ],
+            "data": [
+                {
+                    "x": 86.63,
+                    "y": 0.96
+                },
+                {
+                    "x": 67.02,
+                    "y": 1.61
+                },
+                {
+                    "x": 65.39,
+                    "y": 6.63
+                },
+                {
+                    "x": 72.19,
+                    "y": 8.86
+                },
+                {
+                    "x": 86.05,
+                    "y": 4.62
+                },
+                {
+                    "x": 75.0,
+                    "y": 0.0
+                },
+                {
+                    "x": 70.28,
+                    "y": 4.09
+                },
+                {
+                    "x": 81.67,
+                    "y": 0.0
+                },
+                {
+                    "x": 86.21,
+                    "y": 0.0
+                },
+                {
+                    "x": 88.7,
+                    "y": 0.0
+                },
+                {
+                    "x": 78.03,
+                    "y": 5.0
+                },
+                {
+                    "x": 75.55,
+                    "y": 0.22
+                },
+                {
+                    "x": 82.8,
+                    "y": 0.58
+                },
+                {
+                    "x": 67.16,
+                    "y": 3.0
+                },
+                {
+                    "x": 66.41,
+                    "y": 3.85
+                },
+                {
+                    "x": 75.37,
+                    "y": 1.08
+                },
+                {
+                    "x": 94.0,
+                    "y": 0.0
+                },
+                {
+                    "x": null,
+                    "y": 1.11
+                },
+                {
+                    "x": 91.85,
+                    "y": 2.57
+                },
+                {
+                    "x": 69.32,
+                    "y": 8.82
+                },
+                {
+                    "x": 82.34,
+                    "y": 1.54
+                },
+                {
+                    "x": 76.9,
+                    "y": 5.58
+                },
+                {
+                    "x": 74.43,
+                    "y": 10.72
+                },
+                {
+                    "x": 91.33,
+                    "y": 2.71
+                },
+                {
+                    "x": 79.55,
+                    "y": 4.0
+                },
+                {
+                    "x": 72.87,
+                    "y": 7.29
+                },
+                {
+                    "x": 85.85,
+                    "y": 2.42
+                },
+                {
+                    "x": 75.84,
+                    "y": 7.9
+                },
+                {
+                    "x": 66.11,
+                    "y": 4.32
+                },
+                {
+                    "x": 81.42,
+                    "y": 0.0
+                },
+                {
+                    "x": 82.9,
+                    "y": 0.0
+                },
+                {
+                    "x": 72.8,
+                    "y": 3.14
+                },
+                {
+                    "x": 87.75,
+                    "y": 4.51
+                },
+                {
+                    "x": 87.6,
+                    "y": 2.68
+                },
+                {
+                    "x": 73.0,
+                    "y": 2.95
+                },
+                {
+                    "x": 85.0,
+                    "y": 0.0
+                }
+            ]
+        }
+    }
+]
