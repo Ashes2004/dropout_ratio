@@ -2,10 +2,13 @@
 import Image from "next/image";
 import Dropdown from "./Components/DropDown";
 import { MyContext } from "./context/MyContext";
+import { ShowContext } from "./context/ShowContext";
 import { useEffect, useState } from "react";
 import Graph from "./Components/Graph";
+import Header from "./Components/Header";
 export default function Home() {
   const [value, setValue] = useState();
+  const [key, setkey] = useState();
 
 
 
@@ -96,9 +99,11 @@ export default function Home() {
 
 
   return (
-    <div className=" bg-gray-200 h-[1300px] w-screen  ">
+    <div className=" bg-[#f0f3f6]   h-[1800px] w-screen  ">
+      <Header/>
       <MyContext.Provider value={{ value, setValue }}>
-        <div className="flex justify-center w-screen pt-24 ">
+        <ShowContext.Provider value ={{ key, setkey }} >
+        <div className="flex justify-center w-screen pt-12 ">
           <Dropdown data={data} />
         </div>
        
@@ -109,7 +114,7 @@ export default function Home() {
 
 
 
-       
+          </ShowContext.Provider>
 
       </MyContext.Provider>
     </div>
