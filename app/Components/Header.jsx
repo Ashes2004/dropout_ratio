@@ -35,10 +35,7 @@ function Header() {
           <BarChart2 className="h-5 mt-6 w-5 ml-7 "/>
           <span className="link-name font-semibold hover:text-blue-800">Analysis</span>
         </a>
-        <a href="#" className="nav-link hvrcenter hover:text-blue-800">
-         <UserRound className="h-5 mt-6 w-5 ml-3  "/>
-          <span className="link-name font-semibold hover:text-blue-800">Page3</span>
-        </a>
+       
         <div class="relative">
   <button class="btn bg-gradient-info dropdown-toggle nav-link hvrcenter" type="button" id="dropdownMenuButtonnav" aria-haspopup="true" aria-expanded="false" onClick={()=> toggle()}>
   <ArrowDownFromLine className="h-5 mt-6 w-5 ml-6"/> <span className="link-name font-semibold hover:text-blue-800">Download</span> 
@@ -46,7 +43,7 @@ function Header() {
   <ul class={`dropdown-menu absolute w-36 ${dropdown==false ? 'hidden' : null} bg-white border rounded-md shadow-md`} aria-labelledby="dropdownMenuButtonnav">
     <li  onClick={()=> toggle()}><a class="dropdown-item block px-4 py-2" href="#">Get Report PDF</a></li>
     <hr class="my-1"/>
-    <li  onClick={()=> toggle()}><a class="dropdown-item block px-4 py-2" href="#">Get Data CSV</a></li>
+    <li  onClick={()=> toggle()}><a class="dropdown-item block px-4 py-2" href="https://docs.google.com/spreadsheets/d/1e5ENZNsD10pWJ0ZxzLngf1N5eh2CfkoT/view#gid=900048471">Get Data CSV</a></li>
   </ul>
 </div>
 
