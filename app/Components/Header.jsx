@@ -23,15 +23,15 @@ function Header() {
       }}>STUDENT DROPOUT ANALYSIS</h1>
     <nav>
       <div className="navbar  ">
-        <a href="#" className="nav-link hvrcenter flex justify-center hover:text-blue-800 ">
+        <a href="https://student-dropout-analysis.vercel.app/index.html" className="nav-link hvrcenter flex justify-center hover:text-blue-800 ">
         < Home className="h-5 mt-6 w-5 ml-3  "/> 
           <span className="link-name font-semibold hover:text-blue-800 ">Home</span>
         </a>
-        <a href="#" className="nav-link hvrcenter hover:text-blue-800">
+        <a href="https://student-dropout-analysis.vercel.app/RegionWiseData.html#" className="nav-link hvrcenter hover:text-blue-800">
           <Layout className="h-5 mt-6 w-5 ml-7 "/>
           <span className="link-name font-semibold hover:text-blue-800">DashBoard</span>
         </a>
-        <a href="#" className="nav-link hvrcenter hover:text-blue-800">
+        <a href="https://dropout-ratio.vercel.app/" className="nav-link hvrcenter hover:text-blue-800">
           <BarChart2 className="h-5 mt-6 w-5 ml-7 "/>
           <span className="link-name font-semibold hover:text-blue-800">Analysis</span>
         </a>
