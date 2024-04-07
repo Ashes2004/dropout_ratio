@@ -7,7 +7,7 @@ function Dropdown({data}) {
   const [isOpen, setIsOpen] = useState(false);
 const {value , setValue} = useContext(MyContext);
 const { key, setkey} = useContext(ShowContext);
-const [label , setLabel] = useState("Select Features");
+const [label , setLabel] = useState("Select indicator");
   const toggleDropdown = () => {
     setIsOpen(!isOpen);
    
